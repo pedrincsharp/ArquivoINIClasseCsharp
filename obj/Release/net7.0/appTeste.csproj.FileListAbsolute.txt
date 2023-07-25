@@ -1,0 +1,17 @@
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/bin/Release/net7.0/appTeste
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/bin/Release/net7.0/appTeste.deps.json
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/bin/Release/net7.0/appTeste.runtimeconfig.json
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/bin/Release/net7.0/appTeste.dll
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/bin/Release/net7.0/appTeste.pdb
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/bin/Release/net7.0/INIFileParser.dll
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/obj/Release/net7.0/appTeste.csproj.AssemblyReference.cache
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/obj/Release/net7.0/appTeste.GeneratedMSBuildEditorConfig.editorconfig
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/obj/Release/net7.0/appTeste.AssemblyInfoInputs.cache
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/obj/Release/net7.0/appTeste.AssemblyInfo.cs
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/obj/Release/net7.0/appTeste.csproj.CoreCompileInputs.cache
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/obj/Release/net7.0/appTeste.csproj.CopyComplete
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/obj/Release/net7.0/appTeste.dll
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/obj/Release/net7.0/refint/appTeste.dll
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/obj/Release/net7.0/appTeste.pdb
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/obj/Release/net7.0/appTeste.genruntimeconfig.cache
+/home/joopedro/Documentos/Projetos/Csharp/appTeste/obj/Release/net7.0/ref/appTeste.dll
